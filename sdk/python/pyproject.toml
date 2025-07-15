@@ -21,7 +21,7 @@ classifiers = [
     "Intended Audience :: Developers",
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
-dependencies = ["aiohttp>=3.10.0,<3.11.0", "frozenlist>=1.4.0", "python-dotenv"]
+dependencies = ["aiohttp>=3.10.0,<3.13.0", "frozenlist>=1.4.0", "python-dotenv"]
 
 [project.urls]
 Homepage = "https://github.com/microsandbox/microsandbox/"
